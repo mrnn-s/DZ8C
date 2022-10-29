@@ -1,0 +1,15 @@
+/Users/mariannasarkisan/Desktop/seminar8/2z/bin/Debug/net6.0/2z
+/Users/mariannasarkisan/Desktop/seminar8/2z/bin/Debug/net6.0/2z.deps.json
+/Users/mariannasarkisan/Desktop/seminar8/2z/bin/Debug/net6.0/2z.runtimeconfig.json
+/Users/mariannasarkisan/Desktop/seminar8/2z/bin/Debug/net6.0/2z.dll
+/Users/mariannasarkisan/Desktop/seminar8/2z/bin/Debug/net6.0/2z.pdb
+/Users/mariannasarkisan/Desktop/seminar8/2z/obj/Debug/net6.0/2z.csproj.AssemblyReference.cache
+/Users/mariannasarkisan/Desktop/seminar8/2z/obj/Debug/net6.0/2z.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariannasarkisan/Desktop/seminar8/2z/obj/Debug/net6.0/2z.AssemblyInfoInputs.cache
+/Users/mariannasarkisan/Desktop/seminar8/2z/obj/Debug/net6.0/2z.AssemblyInfo.cs
+/Users/mariannasarkisan/Desktop/seminar8/2z/obj/Debug/net6.0/2z.csproj.CoreCompileInputs.cache
+/Users/mariannasarkisan/Desktop/seminar8/2z/obj/Debug/net6.0/2z.dll
+/Users/mariannasarkisan/Desktop/seminar8/2z/obj/Debug/net6.0/refint/2z.dll
+/Users/mariannasarkisan/Desktop/seminar8/2z/obj/Debug/net6.0/2z.pdb
+/Users/mariannasarkisan/Desktop/seminar8/2z/obj/Debug/net6.0/2z.genruntimeconfig.cache
+/Users/mariannasarkisan/Desktop/seminar8/2z/obj/Debug/net6.0/ref/2z.dll

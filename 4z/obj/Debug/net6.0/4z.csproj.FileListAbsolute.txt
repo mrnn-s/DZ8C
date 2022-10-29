@@ -1,0 +1,15 @@
+/Users/mariannasarkisan/Desktop/seminar8/4z/bin/Debug/net6.0/4z
+/Users/mariannasarkisan/Desktop/seminar8/4z/bin/Debug/net6.0/4z.deps.json
+/Users/mariannasarkisan/Desktop/seminar8/4z/bin/Debug/net6.0/4z.runtimeconfig.json
+/Users/mariannasarkisan/Desktop/seminar8/4z/bin/Debug/net6.0/4z.dll
+/Users/mariannasarkisan/Desktop/seminar8/4z/bin/Debug/net6.0/4z.pdb
+/Users/mariannasarkisan/Desktop/seminar8/4z/obj/Debug/net6.0/4z.csproj.AssemblyReference.cache
+/Users/mariannasarkisan/Desktop/seminar8/4z/obj/Debug/net6.0/4z.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariannasarkisan/Desktop/seminar8/4z/obj/Debug/net6.0/4z.AssemblyInfoInputs.cache
+/Users/mariannasarkisan/Desktop/seminar8/4z/obj/Debug/net6.0/4z.AssemblyInfo.cs
+/Users/mariannasarkisan/Desktop/seminar8/4z/obj/Debug/net6.0/4z.csproj.CoreCompileInputs.cache
+/Users/mariannasarkisan/Desktop/seminar8/4z/obj/Debug/net6.0/4z.dll
+/Users/mariannasarkisan/Desktop/seminar8/4z/obj/Debug/net6.0/refint/4z.dll
+/Users/mariannasarkisan/Desktop/seminar8/4z/obj/Debug/net6.0/4z.pdb
+/Users/mariannasarkisan/Desktop/seminar8/4z/obj/Debug/net6.0/4z.genruntimeconfig.cache
+/Users/mariannasarkisan/Desktop/seminar8/4z/obj/Debug/net6.0/ref/4z.dll
